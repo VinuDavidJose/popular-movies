@@ -7,7 +7,20 @@
 		<key>PopularMovies.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6351721C209848D2006C2E09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63517230209848D3006C2E09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
